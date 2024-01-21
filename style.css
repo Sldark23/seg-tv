@@ -8,3 +8,7 @@ iframe{
             border-top: 1px solid #000;
             margin: 20px 0;
 }
+@media screen and (max-width: 600px) {
+            .container {
+                width: 90%;
+            }
